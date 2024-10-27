@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fletch.pages.dev/'
 languageCode = 'en-us'
-title = 'My own blog. Archery eddition'
+title = 'Inscriptions of Fletcher Davis'
 theme = 'stack'
 
